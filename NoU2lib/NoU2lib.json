@@ -21,7 +21,6 @@
       "artifactId": "NoU2lib-cpp",
       "version": "0.0.1",
       "libName": "NoU2Lib",
-      "headerClassifier": "headers",
       "sharedLibrary": false,
       "skipInvalidPlatforms": true,
       "binaryPlatforms": [
